@@ -32,4 +32,4 @@ also you'll need to execute the code orderly.
 
 -------------------------------------------------------------------------------
 
-Please let me know if you need further clarification.
+Please let us know if you need further clarification.
