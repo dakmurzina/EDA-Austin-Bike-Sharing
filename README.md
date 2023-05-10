@@ -5,7 +5,8 @@
 # Analysis of  Bikes Stations
 
 
-Welcome to our final project for Nanodgree CFGdegree data specialisation with Code First Girls. It was done by [Dinara Akmurzina](https://github.com/dakmurzina), [Magdalena Krupa](https://github.com/magkrupa), [Marina Zviagina](https://github.com/marina-zviagina), [Sharyn McPherson](https://github.com/ShaMcP), [Vanessa Chan](https://github.com/vjfychan), [Lamiaa Bahgat](https://github.com/LamiaaBahgat).
+Welcome to our final project for CFGdegree data specialisation with Code First Girls. \
+
 
 
 # Description
@@ -31,5 +32,13 @@ may be you'll need to install jupyter notebook
 also you'll need to execute the code orderly.
 
 -------------------------------------------------------------------------------
+Thank you for using this code. We hope you find it both useful and enjoyable to use. \
+Please don't hesitate to reach out if you require any further assistance.
 
-Please let us know if you need further clarification.
+Credits: \
+-[Dinara Akmurzina](https://github.com/dakmurzina), \
+-[Magdalena Krupa](https://github.com/magkrupa), \
+-[Marina Zviagina](https://github.com/marina-zviagina), \
+-[Sharyn McPherson](https://github.com/ShaMcP), \
+-[Vanessa Chan](https://github.com/vjfychan), \
+-[Lamiaa Bahgat](https://github.com/LamiaaBahgat).
