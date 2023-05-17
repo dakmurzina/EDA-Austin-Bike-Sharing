@@ -28,7 +28,8 @@ The report will be written at a moderate technical level, ensuring that the robu
 
 For this project, we will utilize datasets collected from Google BigQuery, including: \
     - Bike Trip data: This dataset includes information on bike trips taken from December 2013 to March 2023. \
-    - Bike Station data: This dataset provides information on all active and inactive bike stations in Austin.
+    - Bike Station data: This dataset provides information on all active and inactive bike stations in Austin. \
+    - Weather Data Base - Visual Crossing (https://www.visualcrossing.com/). This dataset includes information on weather conditions taken from 01.01.2014 to 31.12.2015.
 
 These datasets will enable us to understand the distribution and intensity of bike usage over time and across different stations, thereby playing a crucial role in answering our project question.
 
