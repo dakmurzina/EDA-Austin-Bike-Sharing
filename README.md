@@ -12,26 +12,12 @@ The Austin Bike-Sharing Project is designed to evaluate the role and effectivene
 Throughout the project, we will perform rigorous data cleaning, exploratory data analysis, in-depth analysis, and data transformation. These steps will enable us to conduct detailed feature engineering for a deeper analysis of the collected data.
 
 
-## Target Audience
-
-Our report is intended to benefit a wide range of individuals and organizations, including: \
-    - Environmental and sustainability organisations \
-    - Bike advocacy groups \
-    - Transportation authorities and officials \
-    - Residents, community members, and the general public \
-    - Travel agencies and tourists \
-    - Students, researchers, and academics.
-    
-The report will be written at a moderate technical level, ensuring that the robust data analysis is paired with clear and accessible explanations, making it suitable for a diverse audience.
-
 ## Data Sources
 
-For this project, we will utilize datasets collected from Google BigQuery, including: \
     - Bike Trip data: This dataset includes information on bike trips taken from December 2013 to March 2023. \
     - Bike Station data: This dataset provides information on all active and inactive bike stations in Austin. \
     - Weather Data Base - Visual Crossing (https://www.visualcrossing.com/). This dataset includes information on weather conditions taken from 01.01.2014 to 31.12.2015.
 
-These datasets will enable us to understand the distribution and intensity of bike usage over time and across different stations, thereby playing a crucial role in answering our project question.
 
 ## Instructions
 
@@ -41,12 +27,29 @@ To install these libraries, you can use the pip package manager, which is typica
 
 Please ensure these libraries are correctly installed before attempting to run the code cells that depend on them. This will ensure the smooth running of the program and the accuracy of the results.
 
+GT-migr-forecasts/ \
+├── Code                        <- R the code used for the analysis \
+|   ├── data_prep.ipynb                       <- reads in, cleans and prepares data for analysis, also includes plots \
+|   ├── analysis.ipynb                      <- contains analysis and results \
+| \
+├── Data                          <- all data used for the analysis in CSV \
+|    ├── bikeshare_trips.csv \
+|    ├── bikeshare_stations.csv \                
+|    ├── cleaned_stations_df.csv \
+|    ├── cleaned_trips_df.csv \
+|    ├── weather.csv \
+|    ├── cleaned_weather.xlsx \
+| \
+├── Graphs                        <- all figures presented in the manuscript in PNG or PDF format \
+│ \
+├── LICENSE \
+└── README.md 
+
 -------------------------------------------------------------------------------
 Thank you for using this code. We hope you find it both useful and enjoyable to use. \
 Please don't hesitate to reach out if you require any further assistance.
 
 -------------------------------------------------------------------------------
-
 
 ### Credits: 
 -[Dinara Akmurzina](https://github.com/dakmurzina), \
