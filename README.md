@@ -31,7 +31,7 @@ Please ensure these libraries are correctly installed before attempting to run t
 Project
 ├─ Code                         <- The code used for the analysis 
 │  ├─ data_prep.ipynbm          <- reads in, cleans and prepares data for analysis, also includes plots
-│  └─ analysis.ipynb            <- contains analysis and results
+│  ├─ analysis.ipynb            <- contains analysis and results
 │  └─ requirements.txt          
 ├─ Data                         <- all data used for the analysis
 │  ├─ bikeshare_trips.csv
