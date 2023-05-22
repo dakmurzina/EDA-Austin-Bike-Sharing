@@ -41,7 +41,7 @@ Project
 │  ├─ cleaned_stations_df.csv
 │  ├─ cleaned_trips_df.csv
 │  └─ cleaned_weather.csv
-├─ Graphs                       <- all figures  in PNG or PDF format
+├─ Figures                       <- all figures  in PNG or PDF format
 ├─ Licence
 └─ README.md
 ```
