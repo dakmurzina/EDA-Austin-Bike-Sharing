@@ -38,7 +38,7 @@ Project
 │  ├─ apiFetchingFunction           <- function to get historical data through API fetching
 │  └─ standartiseSubscriptions.py   <- function to standartise subscription names
 │    
-
+│   
 ├─ Data                             <- all data used for the analysis
 ├─ Figures                          <- all figures  in PNG or PDF format
 ├─ Licence
