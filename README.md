@@ -17,7 +17,8 @@ Throughout the project, we will perform rigorous data cleaning, exploratory data
     - Bike Trip data: This dataset includes information on bike trips taken from December 2013 to March 2023. 
     - Bike Station data: This dataset provides information on all active and inactive bike stations in Austin. 
     - Weather Data Base - Visual Crossing (https://www.visualcrossing.com/). This dataset includes information 
-      on weather conditions taken from 01.01.2014 to 31.12.2015.
+      on weather conditions taken from 01.01.2014 to 31.12.2022 To obtain the historical data on weather conditions
+      we used API fetching. If you are interested in code, have a look at `api_fetching.ipynb` and `apiFetchingFunction.py`files.
 
 
 ## Instructions
