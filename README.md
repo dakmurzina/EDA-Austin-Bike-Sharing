@@ -32,7 +32,7 @@ Please ensure these libraries are correctly installed before attempting to run t
 ```
 Project
 ├─ Code                             <- The code used for the analysis 
-│  ├─ data_prep.ipynbm              <- reads in, cleans and prepares data for analysis, also includes plots
+│  ├─ data_prep.ipynb              <- reads in, cleans and prepares data for analysis, also includes plots
 │  ├─ analysis.ipynb                <- contains analysis and results
 │  ├─ api_fetching.ipynb            <- imports historical data on weather conditions in Austin, Texas from 2014 to 2022
 │  ├─ apiFetchingFunction           <- function to get historical data through API fetching
