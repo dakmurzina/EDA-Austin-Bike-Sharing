@@ -39,7 +39,7 @@ Project
 │  └─ standartiseSubscriptions.py   <- function to standartise subscription names
 │    
 │   
-├─ Data                             <- all data used for the analysis
+├─ Data                             <- all the datasets used for this project can be found in the latest releases
 ├─ Figures                          <- all figures  in PNG or PDF format
 ├─ Licence
 ├─ README.md
